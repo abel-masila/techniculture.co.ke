@@ -10,10 +10,10 @@
                     @if (Auth::check())
                     <li><a href="#">Daily Prices</a></li>
                      <li><a href="{{ route('blog') }}">Blog</a></li>
-                    <li><a href="#">Marketplace</a></li>
+                    <li><a href="{{ route('marketplace') }}">Marketplace</a></li>
                     @else
                       <li><a href="{{ route('blog') }}">Blog</a></li>
-                    <li><a href="#">Marketplace</a></li>
+                    <li><a href="{{ route('marketplace') }}">Marketplace</a></li>
                     @endif            
                     
                 </ul>

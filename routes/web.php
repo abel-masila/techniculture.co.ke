@@ -19,6 +19,10 @@ Route::get('/blog',[
 	'uses'=>'\AquaTech\Http\Controllers\HomeController@blog',
 	'as'=>'blog',
 ]);
+Route::get('/marketplace',[
+	'uses'=>'\AquaTech\Http\Controllers\HomeController@marketplace',
+	'as'=>'marketplace',
+]);
 Route::get('/alert',function(){
 	return redirect()->route('home')->with('info',"New alert!");
 });
