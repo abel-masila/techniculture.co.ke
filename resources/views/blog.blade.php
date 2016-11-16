@@ -24,7 +24,7 @@
                 <hr>
                 <p>50 percent of the red onions in Kenya are imported from Tanzania, as indicated by Food and Agriculture Organisation's (FAO) 2014 report. Kenyan Farmers have been doing their best to address the demand and close the gap, but there is still more supply to be achieved. This makes the Red Bulb Onion a very attractive commercial investment for the Kenyan market at the moment, since local production is not enough.
 
-				Major types of onions farmed in Kenya are bulb onions and spring onions. The best areas suited for farming being Karatina, Oloitoktok, Naivasha, Kieni, Emali and Mai Mahiu.
+				Major types of onions farmed in Kenya are bulb onions and spring onions. The best areas suited for farming being Karatina, Naivasha, Kieni, Emali and Mai Mahiu.
 
 				Bulb...
 
