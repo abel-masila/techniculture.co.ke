@@ -9,10 +9,10 @@
                 <ul class="nav navbar-nav">
                     @if (Auth::check())
                     <li><a href="#">Daily Prices</a></li>
-                     <li><a href="#">Blog</a></li>
+                     <li><a href="{{ route('blog') }}">Blog</a></li>
                     <li><a href="#">Marketplace</a></li>
                     @else
-                      <li><a href="#">Blog</a></li>
+                      <li><a href="{{ route('blog') }}">Blog</a></li>
                     <li><a href="#">Marketplace</a></li>
                     @endif            
                     
