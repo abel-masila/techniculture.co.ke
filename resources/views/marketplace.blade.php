@@ -4,5 +4,4 @@
 
 @stop
 @section('footer')
-
 @stop
